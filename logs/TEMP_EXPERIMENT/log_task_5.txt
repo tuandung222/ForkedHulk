@@ -1,0 +1,498 @@
+[2024-09-19 18:45:26,922][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 18:45:26,925][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 18:48:22,919][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 18:48:22,922][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 18:49:51,412][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 18:49:51,415][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 18:58:36,280][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 18:58:36,280][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 18:58:36,282][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 18:58:36,282][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:00:18,345][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:00:18,345][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:00:18,345][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:00:18,348][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:00:18,348][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:00:18,348][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:06:37,319][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:06:37,319][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:06:37,319][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:06:37,319][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:06:37,322][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:06:37,322][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:06:37,322][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:06:37,322][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:07:21,727][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:07:21,730][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:07:54,313][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:07:54,313][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:07:54,317][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:07:54,317][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:11:51,338][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:11:51,338][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:11:51,338][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:11:51,342][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:11:51,342][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:11:51,342][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:12:04,149][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:12:04,149][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:12:04,149][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:12:04,149][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:12:04,153][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:12:04,153][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:12:04,153][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:12:04,153][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:16:20,720][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:16:20,723][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:16:56,610][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:16:56,613][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:18:21,078][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:18:21,081][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:18:55,360][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:18:55,360][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:18:55,362][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:18:55,362][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:19:00,843][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:19:00,843][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:19:00,843][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:19:00,845][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:19:00,845][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:19:00,845][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:20:28,761][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:20:28,764][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:21:11,769][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:21:11,773][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:21:43,626][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:21:43,629][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:27:21,566][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:27:21,566][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:27:21,569][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:27:21,569][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-19 19:27:35,878][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-19 19:27:35,881][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 02:15:00,062][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 02:15:00,065][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 02:30:32,505][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 02:30:32,509][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 02:37:17,022][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 02:37:17,022][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 02:37:17,024][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 02:37:17,024][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 02:38:11,099][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 02:38:11,103][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 07:43:02,964][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 07:43:02,968][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:20:35,191][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:20:35,194][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:27:43,485][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:27:43,489][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:34:31,066][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:34:31,069][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:35:31,825][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:35:31,828][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:38:25,660][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:38:25,663][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:40:06,158][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:40:06,162][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:47:04,350][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:47:04,354][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:48:41,702][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:48:41,706][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:50:14,002][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:50:14,005][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:50:58,383][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:50:58,386][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 08:53:20,372][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 08:53:20,375][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:03:32,362][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:03:32,362][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:03:32,364][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:03:32,364][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:04:27,555][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:04:27,555][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:04:27,555][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:04:27,558][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:04:27,558][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:04:27,558][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:04:47,047][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:04:47,051][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:19:01,839][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:19:01,843][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:19:14,776][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:19:14,776][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:19:14,778][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:19:14,778][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:19:28,627][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:19:28,630][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:20:15,760][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:20:15,763][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:27:44,628][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:27:44,632][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:45:40,764][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:45:40,767][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:49:57,355][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:49:57,358][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:59:20,387][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:59:20,390][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 09:59:44,187][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 09:59:44,190][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:01:07,961][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:01:07,964][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:03:54,972][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:03:54,975][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:12:20,704][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:12:20,704][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:12:20,707][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:12:20,707][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:12:42,444][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:12:42,448][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:23:54,157][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:23:54,160][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:26:13,572][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:26:13,575][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:39:10,135][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:39:10,138][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:39:48,592][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:39:48,596][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-20 10:42:15,004][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-20 10:42:15,007][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 08:35:53,652][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 08:35:53,656][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 08:37:51,899][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 08:37:51,903][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:00:10,062][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:00:10,066][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:05:25,799][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:05:25,802][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:06:34,330][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:06:34,334][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:07:08,135][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:07:08,139][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:18:10,885][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:18:10,890][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:18:52,736][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:18:52,739][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:29:08,251][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:29:08,254][     solver_deter.py][line:  58][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 09:51:46,739][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 09:51:46,742][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:01:43,111][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:01:43,117][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:02:50,099][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:02:50,102][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:08:38,516][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:08:38,516][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:08:38,520][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:08:38,520][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:08:50,089][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:08:50,089][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:08:50,089][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:08:50,092][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:08:50,092][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:08:50,092][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:11:19,806][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:11:19,810][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:11:32,360][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:11:32,360][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:11:32,363][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:11:32,363][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:11:57,469][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:11:57,469][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:11:57,469][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:11:57,475][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:11:57,475][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:11:57,475][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:12:48,601][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:12:48,601][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:12:48,601][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:12:48,601][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:12:48,605][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:12:48,605][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:12:48,605][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:12:48,605][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:13:11,974][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:13:11,974][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:13:11,974][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:13:11,974][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:13:11,974][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:13:11,978][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:13:11,978][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:13:11,978][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:13:11,978][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:13:11,978][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:02,887][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:02,887][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:02,887][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:02,887][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:02,887][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:02,887][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:02,891][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:02,891][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:02,891][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:02,891][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:02,891][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:02,891][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,788][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:14:15,792][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:16:12,905][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:16:12,909][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:16:25,272][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:16:25,272][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:16:25,277][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:16:25,277][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:16:46,766][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:16:46,766][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:16:46,766][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:16:46,770][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:16:46,770][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:16:46,770][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:23,713][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:23,713][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:23,713][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:23,713][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:23,716][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:23,716][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:23,716][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:23,716][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:43,543][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:43,543][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:43,543][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:43,543][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:43,543][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:17:43,548][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:43,548][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:43,548][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:43,548][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:17:43,548][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:06,615][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:06,615][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:06,615][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:06,615][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:06,615][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:06,615][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:06,619][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:06,619][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:06,619][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:06,619][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:06,619][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:06,619][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,389][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:18:19,394][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:20:24,828][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:20:24,831][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:20:36,724][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:20:36,724][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:20:36,728][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:20:36,728][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:24:04,140][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:24:04,140][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:24:04,140][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:24:04,144][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:24:04,144][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:24:04,144][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:26:26,991][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:26:26,991][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:26:26,991][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:26:26,991][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:26:26,994][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:26:26,994][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:26:26,994][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:26:26,994][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:30:00,776][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:30:00,779][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:30:11,721][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:30:11,721][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:30:11,724][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:30:11,724][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:35:08,214][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:35:08,218][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:35:19,713][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:35:19,713][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:35:19,716][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:35:19,716][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:40:41,237][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:40:41,241][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:40:52,806][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:40:52,806][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:40:52,811][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:40:52,811][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:41:50,368][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:41:50,372][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:42:01,397][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:42:01,397][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:42:01,401][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:42:01,401][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:43:24,211][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:43:24,211][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:43:24,211][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:43:24,214][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:43:24,214][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:43:24,214][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:43:35,628][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:43:35,631][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:43:47,911][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:43:47,911][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:43:47,914][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:43:47,914][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:45:25,309][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:45:25,312][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:45:52,097][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:45:52,097][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 10:45:52,100][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 10:45:52,100][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:21:38,433][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:21:38,437][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:22:43,090][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:22:43,090][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:22:43,093][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:22:43,093][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:24:18,229][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:24:18,233][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:25:16,515][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:25:16,519][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:26:05,716][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:26:05,716][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:26:05,719][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:26:05,719][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:26:53,972][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:26:53,972][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:26:53,972][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:26:53,976][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:26:53,976][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:26:53,976][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:27:32,892][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:27:32,892][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:27:32,892][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:27:32,892][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:27:32,896][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:27:32,896][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:27:32,896][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:27:32,896][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:28:50,122][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:28:50,122][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:28:50,122][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:28:50,122][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:28:50,122][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:28:50,125][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:28:50,125][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:28:50,125][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:28:50,125][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:28:50,125][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:31:49,290][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:31:49,290][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:31:49,290][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:31:49,290][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:31:49,290][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:31:49,290][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:31:49,293][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:31:49,293][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:31:49,293][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:31:49,293][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:31:49,293][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:31:49,293][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,635][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:33:57,639][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,824][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:35:37,828][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,083][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:37:06,088][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:49:04,745][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:49:04,748][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:49:14,145][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:49:14,145][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 11:49:14,149][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 11:49:14,149][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:29:40,899][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:29:40,903][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:31:41,338][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:31:41,341][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:32:19,021][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:32:19,024][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:32:28,084][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:32:28,084][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:32:28,087][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:32:28,087][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:34:54,857][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:34:54,860][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:35:01,972][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:35:01,972][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:35:01,976][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:35:01,976][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:35:27,473][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:35:27,477][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:35:34,472][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:35:34,472][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:35:34,475][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:35:34,475][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:35:56,285][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:35:56,289][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:36:03,500][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:36:03,500][           solver.py][line:  88][    INFO] auto_denan disabled!
+[2024-09-23 12:36:03,505][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False
+[2024-09-23 12:36:03,505][     solver_deter.py][line:  51][    INFO] deterministic mode, seed: 233, worker_rank: True,                                   cudnn_deterministic: False

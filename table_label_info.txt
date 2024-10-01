@@ -1,0 +1,172 @@
++--------------+----------------+-----------------+--------------------------------+--------------------------------------+
+| dataset_name | local_label_id | global_label_id |        positive_meaning        |           negative_meaning           |
++--------------+----------------+-----------------+--------------------------------+--------------------------------------+
+|     rap2     |       0        |        0        |        with a bald head        |         without a bald head          |
+|     rap2     |       1        |        1        |         with long hair         |           with short hair            |
+|     rap2     |       2        |        2        |        with black hair         |         with non-black hair          |
+|     rap2     |       3        |        3        |           with a hat           |            without a hat             |
+|     rap2     |       4        |        4        |          with glasses          |           without glasses            |
+|     rap2     |       5        |        5        |          with a shirt          |           without a shirt            |
+|     rap2     |       6        |        6        |         with a sweater         |          without a sweater           |
+|     rap2     |       7        |        7        |          with a vest           |            without a vest            |
+|     rap2     |       8        |        8        |         with a t-shirt         |          without a t-shirt           |
+|     rap2     |       9        |        9        |          with cotton           |            without cotton            |
+|     rap2     |       10       |        10       |         with a jacket          |           without a jacket           |
+|     rap2     |       11       |        11       |        with formal wear        |         without formal wear          |
+|     rap2     |       12       |        12       |       with tight clothes       |        without tight clothes         |
+|     rap2     |       13       |        13       |       with short sleeves       |        without short sleeves         |
+|     rap2     |       14       |        14       | with other upper-body clothing |  without other upper-body clothing   |
+|     rap2     |       15       |        15       |       with long trousers       |        without long trousers         |
+|     rap2     |       16       |        16       |          with a skirt          |           without a skirt            |
+|     rap2     |       17       |        17       |       with a short skirt       |        without a short skirt         |
+|     rap2     |       18       |        18       |          with a dress          |           without a dress            |
+|     rap2     |       19       |        19       |           with jeans           |            without jeans             |
+|     rap2     |       20       |        20       |      with tight trousers       |        without tight trousers        |
+|     rap2     |       21       |        21       |       with leather shoes       |        without leather shoes         |
+|     rap2     |       22       |        22       |        with sport shoes        |         without sport shoes          |
+|     rap2     |       23       |        23       |           with boots           |            without boots             |
+|     rap2     |       24       |        24       |        with cloth shoes        |         without cloth shoes          |
+|     rap2     |       25       |        25       |       with casual shoes        |         without casual shoes         |
+|     rap2     |       26       |        26       |        with other shoes        |         without other shoes          |
+|     rap2     |       27       |        27       |        with a backpack         |          without a backpack          |
+|     rap2     |       28       |        28       |      with a shoulder bag       |        without a shoulder bag        |
+|     rap2     |       29       |        29       |         with a handbag         |          without a handbag           |
+|     rap2     |       30       |        30       |           with a box           |            without a box             |
+|     rap2     |       31       |        31       |       with a plastic bag       |        without a plastic bag         |
+|     rap2     |       32       |        32       |        with a paper bag        |         without a paper bag          |
+|     rap2     |       33       |        33       |       with a hand trunk        |         without a hand trunk         |
+|     rap2     |       34       |        34       |     with other attachments     |      without other attachments       |
+|     rap2     |       35       |        35       |  age less than or equal to 16  |         age greater than 16          |
+|     rap2     |       36       |        36       |     age between 17 and 30      | age less than 17 or greater than 30  |
+|     rap2     |       37       |        37       |     age between 31 and 45      | age less than 31 or greater than 45  |
+|     rap2     |       38       |        38       |     age between 46 and 60      | age less than 46 or greater than 60  |
+|     rap2     |       39       |        39       |             female             |                 male                 |
+|     rap2     |       40       |        40       |      with excess body fat      |       without excess body fat        |
+|     rap2     |       41       |        41       |     with normal body shape     |      without normal body shape       |
+|     rap2     |       42       |        42       |      with thin body shape      |       without thin body shape        |
+|     rap2     |       43       |        43       |         is a customer          |            not a customer            |
+|     rap2     |       44       |        44       |         is an employee         |           not an employee            |
+|     rap2     |       45       |        45       |            calling             |             not calling              |
+|     rap2     |       46       |        46       |            talking             |             not talking              |
+|     rap2     |       47       |        47       |           gathering            |            not gathering             |
+|     rap2     |       48       |        48       |       holding something        |         not holding anything         |
+|     rap2     |       49       |        49       |       pushing something        |         not pushing anything         |
+|     rap2     |       50       |        50       |       pulling something        |         not pulling anything         |
+|     rap2     |       51       |        51       |   carrying something in arms   |    not carrying anything in arms     |
+|     rap2     |       52       |        52       |  carrying something in hands   |    not carrying anything in hands    |
+|     rap2     |       53       |        53       |    performing other actions    |           no other actions           |
+|   PA_100k    |       0        |        54       |           with a hat           |            without a hat             |
+|   PA_100k    |       1        |        55       |          with glasses          |           without glasses            |
+|   PA_100k    |       2        |        56       |       with short sleeves       |        without short sleeves         |
+|   PA_100k    |       3        |        57       |       with long sleeves        |         without long sleeves         |
+|   PA_100k    |       4        |        58       |   with stripe upper-clothes    |     without stripe upper-clothes     |
+|   PA_100k    |       5        |        59       |    with logo upper-clothes     |      without logo upper-clothes      |
+|   PA_100k    |       6        |        60       |    with plaid upper-clothes    |     without plaid upper-clothes      |
+|   PA_100k    |       7        |        61       |   with splice upper-clothes    |     without splice upper-clothes     |
+|   PA_100k    |       8        |        62       |   with stripe lower-clothes    |     without stripe lower-clothes     |
+|   PA_100k    |       9        |        63       |   with pattern lower-clothes   |    without pattern lower-clothes     |
+|   PA_100k    |       10       |        64       |         with long coat         |          without long coat           |
+|   PA_100k    |       11       |        65       |       with long trousers       |        without long trousers         |
+|   PA_100k    |       12       |        66       |      with short trousers       |        without short trousers        |
+|   PA_100k    |       13       |        67       |      with skirt or dress       |        without skirt or dress        |
+|   PA_100k    |       14       |        68       |           with boots           |            without boots             |
+|   PA_100k    |       15       |        69       |         with a handbag         |          without a handbag           |
+|   PA_100k    |       16       |        70       |      with a shoulder bag       |        without a shoulder bag        |
+|   PA_100k    |       17       |        71       |        with a backpack         |          without a backpack          |
+|   PA_100k    |       18       |        72       |     hold objects in front      |      not hold objects in front       |
+|   PA_100k    |       19       |        73       |      age greater than 60       |     age less than or equal to 60     |
+|   PA_100k    |       20       |        74       |     age between 18 and 60      | age less than 18 or greater than 60  |
+|   PA_100k    |       21       |        75       |        age less than 18        |   age greater than or equal to 18    |
+|   PA_100k    |       22       |        76       |             female             |                 male                 |
+|   PA_100k    |       23       |        77       |     in the front position      |      not in the front position       |
+|   PA_100k    |       24       |        78       |      in the side position      |       not in the side position       |
+|   PA_100k    |       25       |        79       |      in the back position      |       not in the back position       |
+|   parse27k   |       0        |        80       |        with a bald head        |         without a bald head          |
+|   parse27k   |       1        |        81       |         with long hair         |           with short hair            |
+|   parse27k   |       2        |        82       |        with black hair         |         with non-black hair          |
+|   parse27k   |       3        |        83       |           with a hat           |            without a hat             |
+|   parse27k   |       4        |        84       |          with glasses          |           without glasses            |
+|   parse27k   |       5        |        85       |          with a shirt          |           without a shirt            |
+|   parse27k   |       6        |        86       |         with a sweater         |          without a sweater           |
+|   parse27k   |       7        |        87       |          with a vest           |            without a vest            |
+|   parse27k   |       8        |        88       |         with a t-shirt         |          without a t-shirt           |
+|   parse27k   |       9        |        89       |          with cotton           |            without cotton            |
+|   parse27k   |       10       |        90       |         with a jacket          |           without a jacket           |
+|   parse27k   |       11       |        91       |        with formal wear        |         without formal wear          |
+|   parse27k   |       12       |        92       |       with tight clothes       |        without tight clothes         |
+|   parse27k   |       13       |        93       |       with short sleeves       |        without short sleeves         |
+|   parse27k   |       14       |        94       | with other upper-body clothing |  without other upper-body clothing   |
+|   parse27k   |       15       |        95       |       with long trousers       |        without long trousers         |
+|   parse27k   |       16       |        96       |          with a skirt          |           without a skirt            |
+|   parse27k   |       17       |        97       |       with a short skirt       |        without a short skirt         |
+|   parse27k   |       18       |        98       |          with a dress          |           without a dress            |
+|   parse27k   |       19       |        99       |           with jeans           |            without jeans             |
+|   parse27k   |       20       |       100       |      with tight trousers       |        without tight trousers        |
+|   parse27k   |       21       |       101       |       with leather shoes       |        without leather shoes         |
+|   parse27k   |       22       |       102       |        with sport shoes        |         without sport shoes          |
+|   parse27k   |       23       |       103       |           with boots           |            without boots             |
+|   parse27k   |       24       |       104       |        with cloth shoes        |         without cloth shoes          |
+|   parse27k   |       25       |       105       |       with casual shoes        |         without casual shoes         |
+|   parse27k   |       26       |       106       |        with other shoes        |         without other shoes          |
+|   parse27k   |       27       |       107       |        with a backpack         |          without a backpack          |
+|   parse27k   |       28       |       108       |      with a shoulder bag       |        without a shoulder bag        |
+|   parse27k   |       29       |       109       |         with a handbag         |          without a handbag           |
+|   parse27k   |       30       |       110       |           with a box           |            without a box             |
+|   parse27k   |       31       |       111       |       with a plastic bag       |        without a plastic bag         |
+|   parse27k   |       32       |       112       |        with a paper bag        |         without a paper bag          |
+|   parse27k   |       33       |       113       |       with a hand trunk        |         without a hand trunk         |
+|   parse27k   |       34       |       114       |     with other attachments     |      without other attachments       |
+|   parse27k   |       35       |       115       |  age less than or equal to 16  |         age greater than 16          |
+|   parse27k   |       36       |       116       |     age between 17 and 30      | age less than 17 or greater than 30  |
+|   parse27k   |       37       |       117       |     age between 31 and 45      | age less than 31 or greater than 45  |
+|   parse27k   |       38       |       118       |     age between 46 and 60      | age less than 46 or greater than 60  |
+|   parse27k   |       39       |       119       |             female             |                 male                 |
+|   parse27k   |       40       |       120       |      with excess body fat      |       without excess body fat        |
+|   parse27k   |       41       |       121       |     with normal body shape     |      without normal body shape       |
+|   parse27k   |       42       |       122       |      with thin body shape      |       without thin body shape        |
+|   parse27k   |       43       |       123       |         is a customer          |            not a customer            |
+|    market    |       0        |       124       |        with a backpack         |          without a backpack          |
+|    market    |       1        |       125       |           with a bag           |            without a bag             |
+|    market    |       2        |       126       |         with a handbag         |          without a handbag           |
+|    market    |       3        |       127       |    with black lower-clothes    |     without black lower-clothes      |
+|    market    |       4        |       128       |    with blue lower-clothes     |      without blue lower-clothes      |
+|    market    |       5        |       129       |    with brown lower-clothes    |     without brown lower-clothes      |
+|    market    |       6        |       130       |    with gray lower-clothes     |      without gray lower-clothes      |
+|    market    |       7        |       131       |    with green lower-clothes    |     without green lower-clothes      |
+|    market    |       8        |       132       |    with pink lower-clothes     |      without pink lower-clothes      |
+|    market    |       9        |       133       |   with purple lower-clothes    |     without purple lower-clothes     |
+|    market    |       10       |       134       |    with white lower-clothes    |     without white lower-clothes      |
+|    market    |       11       |       135       |   with yellow lower-clothes    |     without yellow lower-clothes     |
+|    market    |       12       |       136       |    with black upper-clothes    |     without black upper-clothes      |
+|    market    |       13       |       137       |    with blue upper-clothes     |      without blue upper-clothes      |
+|    market    |       14       |       138       |    with green upper-clothes    |     without green upper-clothes      |
+|    market    |       15       |       139       |    with gray upper-clothes     |      without gray upper-clothes      |
+|    market    |       16       |       140       |   with purple upper-clothes    |     without purple upper-clothes     |
+|    market    |       17       |       141       |     with red upper-clothes     |      without red upper-clothes       |
+|    market    |       18       |       142       |    with white upper-clothes    |     without white upper-clothes      |
+|    market    |       19       |       143       |   with yellow upper-clothes    |     without yellow upper-clothes     |
+|    market    |       20       |       144       |           with pants           |              with dress              |
+|    market    |       21       |       145       | with short lower body clothing |    with long lower body clothing     |
+|    market    |       22       |       146       | with short upper body clothing | with long sleeve upper body clothing |
+|    market    |       23       |       147       |         with long hair         |           with short hair            |
+|    market    |       24       |       148       |           with a hat           |            without a hat             |
+|    market    |       25       |       149       |             female             |                 male                 |
+|    market    |       26       |       150       |         a young person         |          not a young person          |
+|    market    |       27       |       151       |           a teenager           |            not a teenager            |
+|    market    |       28       |       152       |            an adult            |             not an adult             |
+|    market    |       29       |       153       |         an old person          |          not an old person           |
+|    HARDHC    |       0        |       154       |              male              |                female                |
+|    HARDHC    |       1        |       155       |         with long hair         |           with short hair            |
+|    HARDHC    |       2        |       156       |         with sunglass          |           without sunglass           |
+|    HARDHC    |       3        |       157       |           with a hat           |            without a hat             |
+|    HARDHC    |       4        |       158       |          with T-skirt          |           without T-skirt            |
+|    HARDHC    |       5        |       159       |       with long sleeves        |         without long sleeves         |
+|    HARDHC    |       6        |       160       |      with formal clothes       |        without formal clothes        |
+|    HARDHC    |       7        |       161       |      with short trousers       |        without short trousers        |
+|    HARDHC    |       8        |       162       |           with jeans           |            without jeans             |
+|    HARDHC    |       9        |       163       |        with long pants         |          without long pants          |
+|    HARDHC    |       10       |       164       |           with skirt           |            without skirt             |
+|    HARDHC    |       11       |       165       |         with face mask         |          without face mask           |
+|    HARDHC    |       12       |       166       |       with logo clothes        |         without logo clothes         |
+|    HARDHC    |       13       |       167       |      with stripe clothes       |        without stripe clothes        |
++--------------+----------------+-----------------+--------------------------------+--------------------------------------+
